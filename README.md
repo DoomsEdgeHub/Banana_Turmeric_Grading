@@ -60,7 +60,7 @@ Download the Dataset : ***https://drive.google.com/file/d/17fxYUeVm6ke44rN0O9PAT
 python -m venv venv
 # Activate venv:
 # On Windows:
-venv\Scripts\activate
+.\venv\Scripts\activate.bat
 # On macOS/Linux:
 source venv/bin/activate
 ```
@@ -75,6 +75,8 @@ pip install -r requirements.txt
 python app.py
 ```
 This will start the Flask server on **http://127.0.0.1:5000**
+
+### Demo Video: ***https://drive.google.com/drive/folders/1T5iyNS-usaWoS_69hw2PB2IrLSIIGyiw?usp=sharing***
 
 
 ## 🖼️ How to Use?
@@ -94,6 +96,6 @@ This will start the Flask server on **http://127.0.0.1:5000**
 - **HTML, CSS, JavaScript (Frontend)**
 
 ## 🤝 Contributing
-Feel free to open an issue or submit a pull request!
+Feel free to contact: ***doomsedgehub@gmail.com***
 
 
