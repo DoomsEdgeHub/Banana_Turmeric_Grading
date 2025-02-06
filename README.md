@@ -1,6 +1,5 @@
 # Banana_Turmeric_Grading
 
-# Banana & Turmeric Grading using CNN
 
 ## 📌 Project Overview
 This project aims to classify and grade Banana & Turmeric using a **Convolutional Neural Network (CNN)**. The model is trained on image data and predicts whether an input image belongs to one of the predefined categories.
