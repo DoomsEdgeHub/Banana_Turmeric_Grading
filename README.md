@@ -20,7 +20,7 @@ Follow these steps to install and run the project on your system.
 
 ### **1️⃣ Prerequisites**
 Ensure you have the following installed:
-- Python (>=3.8)
+- Python (>=3.8 and <=3.12)
 - pip
 - Virtual environment (optional but recommended)
 
